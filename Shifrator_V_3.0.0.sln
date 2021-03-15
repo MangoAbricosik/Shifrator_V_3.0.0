@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifrator_V_3.0.0", "Shifrator_V_3.0.0\Shifrator_V_3.0.0.csproj", "{ACD501D9-3DC9-467D-BEB1-CEE8383A3C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD501D9-3DC9-467D-BEB1-CEE8383A3C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD501D9-3DC9-467D-BEB1-CEE8383A3C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD501D9-3DC9-467D-BEB1-CEE8383A3C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD501D9-3DC9-467D-BEB1-CEE8383A3C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F975DE-8A7E-434E-BC99-377D3F3F3896}
+	EndGlobalSection
+EndGlobal
